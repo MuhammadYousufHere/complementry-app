@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "rating": 6,
+      "text": "Super delivery!! appreciated"
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "text": "Great Job! thumbs up!!"
+    },
+    {
+      "id": 4,
+      "rating": 10,
+      "text": "Excellent service , cool!"
+    },
+    {
+      "text": "I am delighted by the services! excellent!",
+      "rating": 9,
+      "id": 5
+    }
+  ]
+}
